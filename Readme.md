@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridLookup - How to display Enum values in the control 
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3933/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to display Enum values in the <strong>ASPxGridLookup</strong><strong> </strong>control:<br />
