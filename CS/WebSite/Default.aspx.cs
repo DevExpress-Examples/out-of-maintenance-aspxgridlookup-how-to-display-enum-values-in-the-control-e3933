@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Web.UI.WebControls;
-using DevExpress.Web.ASPxGridLookup;
+using DevExpress.Web;
 
 public partial class _Default : System.Web.UI.Page {
     protected void gridLookup_Init(object sender, EventArgs e) {
